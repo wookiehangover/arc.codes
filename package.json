@@ -25,7 +25,7 @@
     "test": "tape -r esm test/*.test.js test/**/*.js | tap-spec"
   },
   "dependencies": {
-    "@architect/architect": "8.3.7-RC.1",
+    "@architect/architect": "8.3.7",
     "esm": "^3.2.25",
     "slugify": "^1.4.6",
     "tap-spec": "^5.0.0",
